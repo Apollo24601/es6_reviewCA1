@@ -1,0 +1,21 @@
+{
+  "name": "es6_reviewca1",
+  "version": "1.0.0",
+  "description": "assignment for mobile based technologies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Apollo24601/es6_reviewCA1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Apollo24601/es6_reviewCA1/issues"
+  },
+  "homepage": "https://github.com/Apollo24601/es6_reviewCA1#readme"
+}
